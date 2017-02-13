@@ -1,7 +1,7 @@
 # Microservices with Scala
 
 This is the example application of microservices and UI.
-For the project's overview check out [this article](http://scala-microservices.blogspot.co.uk).
+For the project's overview check out [this article](http://contented-cows.blogspot.com/2017/02/microservices-with-scala.html).
 
 Feedback email cftp@coldcore.com
 
